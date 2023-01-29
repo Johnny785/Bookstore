@@ -1,0 +1,48 @@
+{
+  "identifier" : "9FCD6868",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "49.99",
+      "familyShareable" : false,
+      "internalID" : "FA7F94D0",
+      "localizations" : [
+        {
+          "description" : "Hoodie with great USC Spirit!",
+          "displayName" : "USC Hoodie",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "edu.usc.hoodie",
+      "referenceName" : "Hoodie",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "49.99",
+      "familyShareable" : false,
+      "internalID" : "1E8A37BB",
+      "localizations" : [
+        {
+          "description" : "Great Shirt!",
+          "displayName" : "USC Shirt",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "edu.usc.shirt",
+      "referenceName" : "Shirt",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 2,
+    "minor" : 0
+  }
+}
